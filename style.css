@@ -1,0 +1,21 @@
+body{
+    font-size:1.2em;
+}
+
+fieldset{
+    width: 20%;
+}
+#form{
+    padding: 20px 12px 10px 20px;
+}
+input[type="text"],
+input[type="email"]
+{
+    padding: 5px 5px;
+    font-size: 16px;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    margin: 5px 0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+
+}
